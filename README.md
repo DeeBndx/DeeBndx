@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeeBndx - You can call me Danny if you really want to. 
 - 👀 I’m interested in just about anything frontend and design related,
 - 🌱 Currently learning C# and .Net Core - cuz what's a frontend without a backend?
-- 💞️ About to start working with Energy Systems.
+- 💞️ Currently working with Energy Systems.
 - 📫 Wanna talk? Drop a line at d@nny-bendix.dk
 
 <!---
